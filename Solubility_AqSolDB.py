@@ -23,7 +23,7 @@ split["train"].head()
 from rdkit import Chem
 from rdkit.Chem import Descriptors
 
-mol = Chem.MolFromSmiles('CC(=O)Oc1ccccc1C(=O)O')  # Example: Aspirin
+mol = Chem.MolFromSmiles('CC(=O)Oc1ccccc1C(=O)O')  
 
 features = {
     "MolWt": Descriptors.MolWt(mol),
