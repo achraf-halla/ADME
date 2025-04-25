@@ -22,4 +22,4 @@ This project aims to predict ADME (Absorption, Distribution, Metabolism, and Exc
 
       . Compute basic molecular descriptors (e.g., MolWt, LogP) and explore correlations with solubility.
 
-Investigate potential patterns in high vs. low solubility compounds.
+      . Investigate potential patterns in high vs. low solubility compounds.
